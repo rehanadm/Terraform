@@ -1,4 +1,5 @@
 Deploy EC2 instance on AWS using terraform
+files==> main.tf
 
 1. Provider = The provider block tells Terraform which cloud service to interact
 
